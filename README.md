@@ -3,11 +3,11 @@
 <!--                   HEADER BANNER                   -->
 <!-- ══════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Faizan%20Toheed&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Aspiring%20Data%20Engineer%20%7C%20Turning%20Raw%20Data%20into%20Real%20Decisions&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Faizan%20Toheed&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Aspiring%20ML%20Engineer%20%7C%20Turning%20Raw%20Data%20into%20Intelligent%20Systems&descAlignY=58&descSize=17" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://github.com/faizantoheed456">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Transforming+Raw+Data+into+Actionable+Insights+%F0%9F%9A%80;Python+%7C+Pandas+%7C+NumPy+%7C+EDA+Specialist+%F0%9F%90%8D;Aspiring+Data+Engineer+from+Lahore%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;50%2C000+Monte+Carlo+Simulations+in+Pure+NumPy+%E2%9A%A1;Building+Pipelines%2C+One+Dataset+at+a+Time+%F0%9F%93%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Transforming+Raw+Data+into+Actionable+Insights+%F0%9F%9A%80;Python+%7C+Pandas+%7C+NumPy+%7C+EDA+Specialist+%F0%9F%90%8D;Aspiring+ML+Engineer+from+Lahore%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;50%2C000+Monte+Carlo+Simulations+in+Pure+NumPy+%E2%9A%A1;Building+Models%2C+One+Dataset+at+a+Time+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -31,17 +31,17 @@
 class FaizanToheed:
     def __init__(self):
         self.name        = "Faizan Toheed"
-        self.role        = "Aspiring Data Engineer"
+        self.role        = "Aspiring ML Engineer"
         self.location    = "Lahore, Pakistan 🇵🇰"
         self.university  = "University of Management & Technology (UMT)"
         self.email       = "faizantoheed456@gmail.com"
-        self.languages   = ["Python", "SQL  ← learning now"]
-        self.stack       = ["Pandas", "NumPy", "Plotly", "Seaborn"]
-        self.interests   = ["Data Engineering", "EDA", "Pipeline Design"]
+        self.languages   = ["Python", "SQL"]
+        self.stack       = ["Pandas", "NumPy", "Plotly", "Seaborn", "Scikit-learn"]
+        self.interests   = ["Machine Learning", "EDA", "Model Deployment"]
         self.fun_fact    = "Ran 50K Monte Carlo simulations — zero for-loops"
 
     def say_hi(self):
-        print("Thanks for stopping by! Let's build something with data 🚀")
+        print("Thanks for stopping by! Let's build something intelligent 🚀")
 
 me = FaizanToheed()
 me.say_hi()
@@ -53,7 +53,7 @@ me.say_hi()
 - 🔭 Currently building **end-to-end EDA pipelines** and data profiling tools
 - 📊 Analyzed **gaming communities**, **retail & warehouse sales**, and **Pakistani university data**
 - 🛠️ Built **DataSight** — a desktop data profiler supporting CSV, XML, HTML, and TXT files
-- 🌱 Actively leveling up in **SQL**, **Apache Spark**, and **Cloud Data Platforms**
+- 🌱 Actively leveling up in **Machine Learning**, **Scikit-learn**, and **Deep Learning**
 - ⚡ Vectorized everything: 50,000 Monte Carlo portfolio simulations in pure NumPy — no loops
 - 📫 Reach me: **faizantoheed456@gmail.com**
 
@@ -67,9 +67,18 @@ me.say_hi()
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+</p>
+
+### 🤖 Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statistics%20%26%20EDA-00BFFF?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Monte%20Carlo-FF6B6B?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
 ### 📊 Data Visualization & EDA
@@ -95,14 +104,12 @@ me.say_hi()
 
 ## 📈 GitHub Statistics
 
+| ![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizantoheed456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=faizantoheed456&theme=tokyonight&hide_border=true) |
+|---|---|
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=faizantoheed456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Faizan's GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=faizantoheed456&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizantoheed456&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizantoheed456&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 </div>
 
@@ -110,65 +117,50 @@ me.say_hi()
 
 <!-- GitHub Activity Graph -->
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=faizantoheed456&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=faizantoheed456&theme=tokyo-night&hide_border=true&area=true)
+
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/faizantoheed456/arena-gaming-eda">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=faizantoheed456&repo=arena-gaming-eda&theme=tokyonight&hide_border=true" alt="ARENA Gaming EDA"/>
-</a>
-<a href="https://github.com/faizantoheed456/Pandas-Dataset-Warehouse-and-Retail-Sales">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=faizantoheed456&repo=Pandas-Dataset-Warehouse-and-Retail-Sales&theme=tokyonight&hide_border=true" alt="Warehouse & Retail Sales"/>
-</a>
-<a href="https://github.com/faizantoheed456/pak-uni-eda-dashboard">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=faizantoheed456&repo=pak-uni-eda-dashboard&theme=tokyonight&hide_border=true" alt="Pakistani Universities EDA"/>
-</a>
-<a href="https://github.com/faizantoheed456/DataSight">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=faizantoheed456&repo=DataSight&theme=tokyonight&hide_border=true" alt="DataSight"/>
-</a>
-<a href="https://github.com/faizantoheed456/numpy-monte-carlo-portfolio-risk">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=faizantoheed456&repo=numpy-monte-carlo-portfolio-risk&theme=tokyonight&hide_border=true" alt="Monte Carlo Portfolio Risk"/>
-</a>
-<a href="https://github.com/faizantoheed456/Visualization">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=faizantoheed456&repo=Visualization&theme=tokyonight&hide_border=true" alt="Data Visualization"/>
-</a>
-
-</div>
+| [![ARENA Gaming EDA](https://github-readme-stats.vercel.app/api/pin/?username=faizantoheed456&repo=arena-gaming-eda&theme=tokyonight&hide_border=true)](https://github.com/faizantoheed456/arena-gaming-eda) | [![Warehouse & Retail Sales](https://github-readme-stats.vercel.app/api/pin/?username=faizantoheed456&repo=Pandas-Dataset-Warehouse-and-Retail-Sales&theme=tokyonight&hide_border=true)](https://github.com/faizantoheed456/Pandas-Dataset-Warehouse-and-Retail-Sales) |
+|---|---|
+| [![Pakistani Universities EDA](https://github-readme-stats.vercel.app/api/pin/?username=faizantoheed456&repo=pak-uni-eda-dashboard&theme=tokyonight&hide_border=true)](https://github.com/faizantoheed456/pak-uni-eda-dashboard) | [![DataSight](https://github-readme-stats.vercel.app/api/pin/?username=faizantoheed456&repo=DataSight&theme=tokyonight&hide_border=true)](https://github.com/faizantoheed456/DataSight) |
+| [![Monte Carlo Portfolio Risk](https://github-readme-stats.vercel.app/api/pin/?username=faizantoheed456&repo=numpy-monte-carlo-portfolio-risk&theme=tokyonight&hide_border=true)](https://github.com/faizantoheed456/numpy-monte-carlo-portfolio-risk) | [![Data Visualization](https://github-readme-stats.vercel.app/api/pin/?username=faizantoheed456&repo=Visualization&theme=tokyonight&hide_border=true)](https://github.com/faizantoheed456/Visualization) |
 
 ---
 
-## 🗺️ Data Engineering Roadmap
+## 🗺️ ML Engineering Roadmap
 
-> *The journey from Analyst → Engineer is a deliberate climb. Here's my exact path:*
+> *The journey from Analyst → ML Engineer is a deliberate climb. Here's my exact path:*
 
 ```
    Mastered ✅                         Up Next 📌
 ──────────────────────────────────────────────────────────────────
-   Python (Advanced)         →         SQL & Relational Databases
-   Pandas / NumPy / SciPy    →         PostgreSQL + Query Optimization
-   EDA & Statistics          →         Apache Spark & PySpark
-   Matplotlib / Seaborn      →         Apache Airflow (ETL / DAGs)
-   Plotly & Dash             →         Docker & Containerization
-   DataSight (Profiler App)  →         AWS S3 / Glue / Redshift
-   Monte Carlo Simulations   →         GCP BigQuery & Dataflow
-                             →         dbt (Data Build Tool)
-                             →         Kafka (Streaming Pipelines)
+   Python (Advanced)         →         Scikit-learn (ML Models)
+   Pandas / NumPy / SciPy    →         Feature Engineering & Selection
+   EDA & Statistics          →         TensorFlow / PyTorch (Deep Learning)
+   Matplotlib / Seaborn      →         Model Evaluation & Tuning
+   Plotly & Dash             →         ML Pipelines & Deployment (Flask/FastAPI)
+   SQL & Databases           →         MLflow & Experiment Tracking
+   DataSight (Profiler App)  →         Docker & Model Containerization
+   Monte Carlo Simulations   →         Cloud ML (AWS SageMaker / GCP Vertex AI)
+                             →         NLP & Computer Vision
+                             →         LLMOps & Fine-tuning
 ```
 
 | Domain | Target Tools | Status |
 |---|---|:---:|
-| 🗄️ Databases | SQL, PostgreSQL, MySQL | 🔜 Next Up |
-| ⚡ Big Data Processing | Apache Spark, PySpark | 📅 Planned |
-| 🔁 Pipeline Orchestration | Apache Airflow, Prefect | 📅 Planned |
-| ☁️ Cloud Platforms | AWS (S3, Glue, Redshift), GCP BigQuery | 📅 Planned |
-| 🛠️ Data Modeling | dbt, Star Schema, Data Vault | 📅 Planned |
-| 🐳 DevOps Foundations | Docker, GitHub Actions, CI/CD | 📅 Planned |
-| 📡 Streaming | Apache Kafka, Spark Structured Streaming | 🔮 Future |
+| 🤖 Core ML | Scikit-learn, XGBoost, LightGBM | 🔜 Next Up |
+| 🧠 Deep Learning | TensorFlow, PyTorch, Keras | 📅 Planned |
+| 🔁 ML Pipelines | MLflow, DVC, Prefect | 📅 Planned |
+| 🚀 Model Deployment | Flask, FastAPI, Streamlit | 📅 Planned |
+| ☁️ Cloud ML | AWS SageMaker, GCP Vertex AI | 📅 Planned |
+| 🐳 DevOps for ML | Docker, GitHub Actions, CI/CD | 📅 Planned |
+| 💬 Advanced AI | NLP, Computer Vision, LLMOps | 🔮 Future |
 
 ---
 
@@ -194,7 +186,7 @@ me.say_hi()
 
 <br/><br/>
 
-> 💬 *Open to collaborations, project feedback, and data-engineering conversations.*
+> 💬 *Open to collaborations, project feedback, and ML conversations.*
 > *Don't hesitate to reach out — I reply to every message!*
 
 </div>
