@@ -31,7 +31,8 @@ class FaizanToheed:
         self.university  = "University of Management & Technology (UMT)"
         self.email       = "faizantoheed456@gmail.com"
         self.languages   = ["Python", "SQL"]
-        self.stack       = ["Pandas", "NumPy", "Plotly", "Seaborn", "Scikit-learn"]
+        self.stack       = ["Pandas", "NumPy", "Plotly",
+                            "Seaborn", "Scikit-learn"]
         self.interests   = ["Machine Learning", "EDA", "Model Deployment"]
         
 
