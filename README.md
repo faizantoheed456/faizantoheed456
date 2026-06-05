@@ -33,10 +33,11 @@ class FaizanToheed:
         self.languages   = ["Python", "SQL"]
         self.stack       = ["Pandas", "NumPy", "Plotly", "Seaborn", "Scikit-learn"]
         self.interests   = ["Machine Learning", "EDA", "Model Deployment"]
-        self.fun_fact    = "Ran 50K Monte Carlo simulations — zero for-loops"
+        
 
     def say_hi(self):
-        print("Thanks for stopping by! Let's build something intelligent 🚀")
+        print("Thanks for stopping by!
+        Let's build something intelligent 🚀")
 
 me = FaizanToheed()
 me.say_hi()
