@@ -2,7 +2,7 @@
 <!-- ══════════════════════════════════════════════════ -->
 <!--                   HEADER BANNER                   -->
 <!-- ══════════════════════════════════════════════════ -->
- 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Faizan%20Toheed&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Aspiring%20Data%20Engineer%20%7C%20Turning%20Raw%20Data%20into%20Real%20Decisions&descAlignY=58&descSize=17" width="100%"/>
 <!-- Typing Animation -->
 <a href="https://github.com/faizantoheed456">
