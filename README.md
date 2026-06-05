@@ -91,9 +91,7 @@ me.say_hi()
 ![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizantoheed456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=faizantoheed456&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizantoheed456&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=faizantoheed456&theme=tokyo-night&hide_border=true&area=true)
 
 ---
 
