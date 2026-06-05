@@ -104,32 +104,22 @@ me.say_hi()
 
 ## 📈 GitHub Statistics
 
-| ![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizantoheed456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=faizantoheed456&theme=tokyonight&hide_border=true) |
-|---|---|
+[![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizantoheed456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/faizantoheed456)
+[![GitHub Streak](https://streak-stats.demolab.com?user=faizantoheed456&theme=tokyonight&hide_border=true)](https://github.com/faizantoheed456)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizantoheed456&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/faizantoheed456)
 
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizantoheed456&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
-</div>
-
-<br/>
-
-<!-- GitHub Activity Graph -->
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=faizantoheed456&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=faizantoheed456&theme=tokyo-night&hide_border=true&area=true)](https://github.com/faizantoheed456)
 
 ---
 
 ## 🚀 Featured Projects
 
-| [![ARENA Gaming EDA](https://github-readme-stats.vercel.app/api/pin/?username=faizantoheed456&repo=arena-gaming-eda&theme=tokyonight&hide_border=true)](https://github.com/faizantoheed456/arena-gaming-eda) | [![Warehouse & Retail Sales](https://github-readme-stats.vercel.app/api/pin/?username=faizantoheed456&repo=Pandas-Dataset-Warehouse-and-Retail-Sales&theme=tokyonight&hide_border=true)](https://github.com/faizantoheed456/Pandas-Dataset-Warehouse-and-Retail-Sales) |
-|---|---|
-| [![Pakistani Universities EDA](https://github-readme-stats.vercel.app/api/pin/?username=faizantoheed456&repo=pak-uni-eda-dashboard&theme=tokyonight&hide_border=true)](https://github.com/faizantoheed456/pak-uni-eda-dashboard) | [![DataSight](https://github-readme-stats.vercel.app/api/pin/?username=faizantoheed456&repo=DataSight&theme=tokyonight&hide_border=true)](https://github.com/faizantoheed456/DataSight) |
-| [![Monte Carlo Portfolio Risk](https://github-readme-stats.vercel.app/api/pin/?username=faizantoheed456&repo=numpy-monte-carlo-portfolio-risk&theme=tokyonight&hide_border=true)](https://github.com/faizantoheed456/numpy-monte-carlo-portfolio-risk) | [![Data Visualization](https://github-readme-stats.vercel.app/api/pin/?username=faizantoheed456&repo=Visualization&theme=tokyonight&hide_border=true)](https://github.com/faizantoheed456/Visualization) |
+- 🎮 [**arena-gaming-eda**](https://github.com/faizantoheed456/arena-gaming-eda) — Exploratory data analysis on gaming community data
+- 🏪 [**Pandas-Dataset-Warehouse-and-Retail-Sales**](https://github.com/faizantoheed456/Pandas-Dataset-Warehouse-and-Retail-Sales) — Retail & warehouse sales analysis with Pandas
+- 🎓 [**pak-uni-eda-dashboard**](https://github.com/faizantoheed456/pak-uni-eda-dashboard) — Interactive EDA dashboard on Pakistani university data
+- 🔍 [**DataSight**](https://github.com/faizantoheed456/DataSight) — Desktop data profiler supporting CSV, XML, HTML, and TXT files
+- 📉 [**numpy-monte-carlo-portfolio-risk**](https://github.com/faizantoheed456/numpy-monte-carlo-portfolio-risk) — 50K Monte Carlo portfolio risk simulations in pure NumPy
+- 📊 [**Visualization**](https://github.com/faizantoheed456/Visualization) — Data visualization projects and experiments
 
 ---
 
@@ -168,6 +158,40 @@ me.say_hi()
 
 <div align="center">
 
+<a href="mailto:faizantoheed456@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://github.com/faizantoheed456">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="YOUR_LINKEDIN_URL_HERE">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="YOUR_TWITTER_URL_HERE">
+  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
+</a>
+
+<br/><br/>
+
+> 💬 *Open to collaborations, project feedback, and ML conversations.*
+> *Don't hesitate to reach out — I reply to every message!*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%"/>
+
+*"Data is the new oil — but only if you know how to refine it."* 🛢️
+
+**⭐ If you found any of my projects useful, a star goes a long way — thank you!**
+
+</div>
 <a href="mailto:faizantoheed456@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
