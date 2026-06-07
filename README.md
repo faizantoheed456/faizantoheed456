@@ -151,3 +151,21 @@ me.say_hi()
 ⭐ **If you found any of my projects useful, a star goes a long way — thank you!**
 
 </div>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Academic_Status-4th_Semester_BS_DS-blue?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Semester" />
+  <img src="https://img.shields.io/badge/University-UMT_Lahore-red?style=for-the-badge&logo=education&logoColor=white" alt="University" />
+  <img src="https://img.shields.io/badge/Project_Role-MySQL_Architect_--_Steam_Clone-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Architect" />
+</p>
+
+### 🛠️ Tech Stack & Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL_Optimization-Data_Science-orange?style=flat-square&logo=databricks&logoColor=white" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+.
